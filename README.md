@@ -1,2 +1,2 @@
-# my-learning-app
+# My-learning-app
 My first learning app
